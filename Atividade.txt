@@ -1,3 +1,4 @@
 -- Criar o repositório no git e adicionar arquivos 
 -- Convidar um colaborador
 -- Sou a Alissa
+-- Uhu, deu certo (bianca)
